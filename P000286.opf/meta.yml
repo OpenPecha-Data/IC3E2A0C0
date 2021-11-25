@@ -1,5 +1,7 @@
 id: P000286
 initial_creation_type: ocr
+created_at: 21/02/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W27487
   title: མན་ངག་གནད་ཀྱི་རྫོང་འཕྲང་གི་སྐོར།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 614
       base_file: v001.txt
-ebook_metadata:
-  title: མན་ངག་གནད་ཀྱི་རྫོང་འཕྲང་གི་སྐོར།
-  author: ''
-  sku: P000286
-  cover: cover.jpg
-  layers:
-  - pagination
